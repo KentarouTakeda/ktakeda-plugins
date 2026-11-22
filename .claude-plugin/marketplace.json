@@ -1,0 +1,13 @@
+{
+  "name": "ktakeda-plugins",
+  "owner": {
+    "name": "KentarouTakeda"
+  },
+  "plugins": [
+    {
+      "name": "ktakeda-skills",
+      "source": "./plugins/ktakeda-skills",
+      "description": "反証つきレビューループ、自分の PR の pending コメント対応、Issue の確定性チェック"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "ktakeda-skills",
+  "description": "反証つきレビューループ、自分の PR の pending コメント対応、Issue の確定性チェック",
+  "version": "0.1.0",
+  "author": {
+    "name": "KentarouTakeda"
+  }
+}
